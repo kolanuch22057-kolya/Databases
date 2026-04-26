@@ -25,8 +25,13 @@
 * Фільми
 * Клієнти
 * Прокат
+* * Платежі
 
 ДІАГРАМА 
 <img width="560" height="444" alt="image" src="https://github.com/user-attachments/assets/3583510e-5ec2-4554-87fe-55cbb9fdff60" />
 
-* Платежі
+Звяски 
+Customer — 1:M — Rental(Один до багатьох)
+Film — 1:M — Rental (Один до багатьох)
+Rental — 1:1 — Payment (один до одного)
+
