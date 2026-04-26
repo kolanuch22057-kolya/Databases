@@ -26,7 +26,8 @@
 Оплата не може існувати без прокату
 
 ДІАГРАМА 
-<img width="549" height="451" alt="image" src="https://github.com/user-attachments/assets/661b26ef-b0a4-412d-808c-181d5642919b" />
+<img width="871" height="720" alt="image" src="https://github.com/user-attachments/assets/32b6d16b-2329-48d8-9ae8-6b657253765a" />
+
 
 
 
