@@ -127,6 +127,7 @@ INSERT INTO Review (client_id, movie_id, rating, comment) VALUES
 
 4. Результати тестування
 Після виконання скриптів у pgAdmin всі таблиці були успішно створені та заповнені. Цілісність даних підтримується за допомогою зовнішніх ключів.
+<img width="919" height="713" alt="Снимок экрана 2026-04-26 115905" src="https://github.com/user-attachments/assets/bc6bbbf4-5a0a-4535-9217-a84618034df9" />
 
 
 Висновок
