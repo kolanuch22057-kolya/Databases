@@ -26,9 +26,10 @@
 Оплата не може існувати без прокату
 
 ДІАГРАМА 
-<img width="560" height="444" alt="image" src="https://github.com/user-attachments/assets/3583510e-5ec2-4554-87fe-55cbb9fdff60" />
+<img width="609" height="458" alt="image" src="https://github.com/user-attachments/assets/69fb8d26-c943-4c13-a8b9-ea14d1755d56" />
 
-Звяски 
+
+Зв'язки 
 Customer — 1:M — Rental(Один до багатьох)
 Film — 1:M — Rental (Один до багатьох)
 Rental — 1:1 — Payment (один до одного)
