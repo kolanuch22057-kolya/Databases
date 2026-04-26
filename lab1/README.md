@@ -12,3 +12,21 @@
 * Customer
 * Rental
 * Payment
+
+
+# Вимоги
+
+## Призначення
+
+Система для прокату фільмів.
+
+## Дані
+
+* Фільми
+* Клієнти
+* Прокат
+
+ДІАГРАМА 
+<img width="560" height="444" alt="image" src="https://github.com/user-attachments/assets/3583510e-5ec2-4554-87fe-55cbb9fdff60" />
+
+* Платежі
