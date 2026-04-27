@@ -125,9 +125,10 @@ INSERT INTO Review (client_id, movie_id, rating, comment) VALUES
 (2, 2, 9, 'Дуже заплутано, але круто.'),
 (3, 3, 8, 'Легка та приємна комедія.');
 
-4. Результати тестування
-Після виконання скриптів у pgAdmin всі таблиці були успішно створені та заповнені. Цілісність даних підтримується за допомогою зовнішніх ключів.
-<img width="919" height="713" alt="Снимок экрана 2026-04-26 115905" src="https://github.com/user-attachments/assets/bc6bbbf4-5a0a-4535-9217-a84618034df9" />
+Результат тестування
+<img width="963" height="173" alt="image" src="https://github.com/user-attachments/assets/6de496ec-ba88-4e47-a9fc-a451a3d2e624" />
+
+
 
 
 Висновок
