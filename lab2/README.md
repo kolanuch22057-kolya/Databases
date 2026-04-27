@@ -86,6 +86,8 @@ CREATE TABLE Review (
     comment TEXT
 );
 
+Результат тестування
+<img width="661" height="446" alt="image" src="https://github.com/user-attachments/assets/4056d60d-1444-4eb2-a0ee-57bc726ec92d" />
 
 
 3. Вставлення тестових даних
